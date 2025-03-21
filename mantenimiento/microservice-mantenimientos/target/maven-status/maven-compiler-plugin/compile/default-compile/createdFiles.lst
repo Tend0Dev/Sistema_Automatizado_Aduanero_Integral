@@ -1,0 +1,5 @@
+com\microservice\mantenimientos\controller\MantenimientoController.class
+com\microservice\mantenimientos\repository\MantenimientoRepository.class
+com\microservice\mantenimientos\service\MantenimientoService.class
+com\microservice\mantenimientos\MicroserviceMantenimientosApplication.class
+com\microservice\mantenimientos\model\Mantenimiento.class
